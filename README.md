@@ -2,4 +2,4 @@
 1.nmap -sV (target ip)
 
 
-referrace : https://www.youtube.com/watch?v=bPKo_A-Lw2E&t=277s
+Reference form : https://www.youtube.com/watch?v=bPKo_A-Lw2E&t=277s
